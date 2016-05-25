@@ -1,0 +1,25 @@
+h2.intro {
+  color: cyan;
+  font-family: monospace;
+  font-size: 5em;
+
+}
+
+p.intro {
+  color: orange;
+  font-stretch: expanded;
+  font-size: 3em;
+}
+
+img.intro {
+  width: 640px;
+  border-style: solid;
+  border-color: orange;
+  border-width: thick;
+
+}
+
+body {
+  text-align: center;
+  background-color: grey;
+}
