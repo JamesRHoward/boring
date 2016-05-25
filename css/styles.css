@@ -1,17 +1,10 @@
-h2.intro {
-  color: cyan;
-  font-family: monospace;
-  font-size: 5em;
-
-}
-
-p.intro {
-  color: orange;
-  font-stretch: expanded;
+.intro {
+  color: red;
+  font-family:monospace;
   font-size: 3em;
 }
 
-img.intro {
+img {
   width: 640px;
   border-style: solid;
   border-color: orange;
@@ -22,4 +15,11 @@ img.intro {
 body {
   text-align: center;
   background-color: grey;
+}
+
+.ok {
+  font-style: italic;
+  color: orange;
+  font-size: 2em;
+  
 }
